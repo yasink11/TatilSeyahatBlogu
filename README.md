@@ -6,7 +6,7 @@
 # Hakkımızda
 # Blogum
 Sayfalarından oluşan 2 panelli (Admin & User) proje.
-fbf5-4721-b0c1-5e20d40a355a)
+
 ![Screenshot 2024-01-10 132037](https://github.com/yasink11/TatilSeyahatBlogu/assets/100369628/d40ea5a1-9382-447d-bf7d-1104d27390fe)
 
 ![Screenshot 2024-01-10 131834](https://github.com/yasink11/TatilSeyahatBlogu/assets/100369628/cc6bee7e-512e-4c5a-b895-5e913681aaa9)

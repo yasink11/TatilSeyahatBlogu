@@ -1,10 +1,10 @@
 # TatilSeyahatBlogu
  Tatil Seyahat Blogu
  ASP.Net MVC 5 ile Oluşturulmuş bir Tatil Seyahat Web Sitesi.
-# Giriş Yap
-# Ana Sayfa
-# Hakkımızda
-# Blogum
+##### Giriş Yap
+##### Ana Sayfa
+##### Hakkımızda
+##### Blogum
 Sayfalarından oluşan 2 panelli (Admin & User) proje.
 
 ![Screenshot 2024-01-10 132037](https://github.com/yasink11/TatilSeyahatBlogu/assets/100369628/d40ea5a1-9382-447d-bf7d-1104d27390fe)

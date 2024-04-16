@@ -7,6 +7,18 @@
 ##### Blogum
 Sayfalarından oluşan 2 panelli (Admin & User) proje.
 
+##### Admin tarafında Yeni Blog Ekleme
+##### Admin tarafında Blog, Yorum ve İletişim Mesajı Silme
+##### Admin tarafında Blog, Yorum için Güncelleme işlemlerini yapabildiğimiz (CRUD İşlemleri),
+##### UI Tarafında Bloglara yorum yapabilme
+##### İletişim Sayfasından Admin'e mesaj yollayabilme
+##### Model-View-Controller katmanları içeren
+##### HttpGet ve HttpPost Attributelarının Controller tarafında kullanımları ve ne işlevde olduklarına dair bilgiler,
+##### Validation Kontrolleri Required
+##### Code First -ORM aracı olarak Entity Framework -Veri tabanı SQL Server
+##### Authnetication -Authorization
+ gibi bir çok teknoloji kullanılmıştır.
+
 ![Screenshot 2024-01-10 132037](https://github.com/yasink11/TatilSeyahatBlogu/assets/100369628/28927c0a-a832-4e04-a8d8-541fb6a64725)
 
 ![Screenshot 2024-01-10 131834](https://github.com/yasink11/TatilSeyahatBlogu/assets/100369628/1ecf983f-6d78-4154-b279-9d37aa807666)
